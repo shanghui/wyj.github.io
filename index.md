@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/wyjoutstanding/wyj.github.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## wyj post
+[阿俊的测试博文](https://wyjoutstanding.github.io/wyj.github.io/test)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
